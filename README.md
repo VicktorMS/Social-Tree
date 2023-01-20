@@ -1,12 +1,11 @@
 # Personal Contact Website (SOCIAL TREE)
 This repository contains the code for a personal contact website. This website allows users to store contact information and share it with friends.
 
+![](https://github.com/VicktorMS/Social-Tree/blob/main/Social%20Tree%20.gif)
+
 ## Features
-* Add, edit and delete contacts
-* Search for contacts
 * Share contacts with friends
-* Add notes to contacts
-* Create contact groups
+
 
 ## Technologies Used
 * HTML
